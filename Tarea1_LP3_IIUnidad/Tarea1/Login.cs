@@ -8,7 +8,7 @@ namespace Tarea1
         {
             InitializeComponent();
         }
-
+        //Alba Yaneth
         private async void AceptarButton_Click(object sender, EventArgs e)
         {
             if (CorreoTextBox.Text == String.Empty)
