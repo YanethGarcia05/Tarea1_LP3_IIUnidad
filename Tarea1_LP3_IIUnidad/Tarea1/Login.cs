@@ -8,7 +8,6 @@ namespace Tarea1
         {
             InitializeComponent();
         }
-        //Alumna: Alba Yaneth Garcia
 
         private async void AceptarButton_Click(object sender, EventArgs e)
         {
